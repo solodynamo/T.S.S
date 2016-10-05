@@ -1,6 +1,5 @@
 # TS Starter
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
 Get yourserlf get going with typescript which is one of the hindrance we most often face.
 
