@@ -1,3 +1,7 @@
-let variable :number = 56;
+//enumeration in typescript
 
-console.log(variable);
+enum parkingSlots{"800","Q7","A8","Q3"};
+
+for(i in parkingSlots){
+    console.log(i);
+}
