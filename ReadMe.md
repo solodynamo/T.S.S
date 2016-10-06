@@ -8,7 +8,7 @@ Project Structure:
   - ./dist - It is where our js code will reside here after getting compiled by tsc.
  
 
-This text you see here is *actually* written in Markdown! To get a feel for Markdown's syntax, type some text into the left window and watch the results in the right.
+
 
 ### Installation
 
@@ -23,4 +23,4 @@ $ tsc -w
 ```
 -w : It watches for ts code change and automatically compiles to js in dist/
 
--Write ts code in app.ts and get app.js in dist/ which is as easy it
+-Write ts code in app.ts and get app.js in dist/ which is as easy it can get.
