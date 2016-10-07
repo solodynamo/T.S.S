@@ -12,7 +12,7 @@
 
     // enum person{birthday=27,age,noOfBurgerEaten};
 
-    // for( i  in  person){
+    // for( i  in  person) {
     //     console.log(i);
     // }// here both value and key play index values for each other
 
@@ -40,5 +40,22 @@
     //let myTuple:[number,string] =[45,"solody"];//these two should follow the format specified i.e. number then string
   /*  myTuple[3]=45;    //After that we can add any number or string in any order
     myTuple[2]="ydolos";*/
-    //console.log(myTuple);
+    //console.log(myTuple)
     
+//Functions in typescript
+
+    // function introduction(name:string , id:number, married:boolean): String {
+    //      return name+id+'and is'+married+'married';
+    // }    
+
+
+  //Arrow Functions
+
+//    angular.forEach(something, (value,index)=>{
+//        console.log(value + index);
+//    })
+
+//    let abc = obj1.search((book)=> book.title == 'abcd');//this will return the book object that has title abcd
+//    )
+
+//    let abc = obj1.search(()=> console.log("arrow without parameters"));
